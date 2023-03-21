@@ -32,6 +32,6 @@ public class mover : MonoBehaviour
             isGrounded = true;
         }
     }
-//https://garticphone.com/es/?c=0112c79ee8
+//https://garticphone.com/es/?c=01f14d5f46
     
 }
